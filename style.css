@@ -1,0 +1,26 @@
+div{
+    color:rgba(231, 149, 27, 0.614)
+}
+
+#div1{ 
+    color:rgb(56, 56, 174)
+} 
+
+#div2{
+    color:rgb(50, 205, 153)
+}
+
+.para1{
+    color: rgba(108, 220, 28, 0.711);
+    background-color: rgba(0, 255, 255, 0.644);
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.para2{
+    color: rgba(99, 50, 145, 0.561);
+    margin: 50px;
+    background-color: rgba(151, 101, 40, 0.479);
+    border-radius: 35px;
+    padding: 70px 50px;
+}
